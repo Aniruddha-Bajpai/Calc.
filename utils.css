@@ -1,0 +1,35 @@
+.text-center{
+  text-align:center;
+}
+.bg-white{
+/*   background:red; */
+  color:white;
+}
+.bg-1{
+  background-color:grey;
+}
+.bg-2{
+  background-color:orange;
+  color:white;
+}
+.bg-3{
+  background-color:#222630;
+  color:white;
+}
+.mx-auto{
+  margin:auto;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.item-center{
+  align-items:center;
+}
+.add-width{
+  width:150px;
+  border-radius:25%;
+  border:2px solid black;
+}
